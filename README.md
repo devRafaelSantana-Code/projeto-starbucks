@@ -191,8 +191,6 @@ projeto-starbucks/
 └── README.md                  # Documentação do projeto
 ```
 
-_Nota: esta estrutura representa a organização indicada para o projeto. Confirma os nomes e os caminhos dos ficheiros no repositório para garantir que correspondem à estrutura real._
-
 ---
 
 ## 👨‍💻 Autor
