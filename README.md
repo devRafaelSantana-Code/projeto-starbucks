@@ -22,6 +22,22 @@ A interface procura reproduzir a composição visual de uma página promocional,
 
 ---
 
+## 🌐 Demonstração Online
+
+A aplicação está disponível para visualização através da Vercel.
+
+<p align="center">
+  <a href="https://projeto-starbucks-nu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/VER%20PROJETO%20ONLINE-006341?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver projeto online na Vercel">
+  </a>
+</p>
+
+🔗 **Link direto:** [https://projeto-starbucks-nu.vercel.app/](https://projeto-starbucks-nu.vercel.app/)
+
+Explora a interface promocional e a adaptação do layout a diferentes dimensões de ecrã.
+
+---
+
 ## 🛠️ Detalhes Técnicos
 
 ### 🧩 Layout com CSS Grid e Flexbox
@@ -51,9 +67,9 @@ grid-column: 1 / 3;
 grid-row: 1 / 2;
 ```
 
-Neste exemplo, o elemento ocupa as colunas delimitadas pelas linhas de grelha 1 e 3, abrangendo duas colunas, e posiciona-se na primeira linha.
+Neste exemplo, o elemento ocupa duas colunas, delimitadas pelas linhas de grelha 1 e 3, e posiciona-se na primeira linha.
 
-Esta técnica permite criar composições assimétricas e distribuir os conteúdos de forma mais flexível, sendo particularmente útil em layouts promocionais e editoriais.
+Esta técnica permite criar composições assimétricas e distribuir os conteúdos de forma flexível, sendo particularmente útil em layouts promocionais e editoriais.
 
 ### 🔤 Tipografia com Google Fonts
 
@@ -87,7 +103,7 @@ As imagens dos produtos e os elementos gráficos complementares contribuem para 
 
 O projeto utiliza **Media Queries** para adaptar a apresentação dos conteúdos a diferentes dimensões de ecrã.
 
-Esta abordagem permite aplicar regras CSS específicas de acordo com as características do dispositivo ou da área de visualização.
+Esta abordagem permite aplicar regras CSS específicas de acordo com a largura do viewport e outras características da área de visualização.
 
 Entre os principais aspetos da adaptação responsiva, destacam-se:
 
@@ -106,7 +122,7 @@ O objetivo é preservar a hierarquia visual e proporcionar uma experiência de u
 
 A composição visual utiliza uma paleta de cores inspirada na identidade gráfica associada à campanha representada.
 
-### Cores principais
+### 🎨 Cores Principais
 
 | Cor       | Utilização                                |
 | --------- | ----------------------------------------- |
@@ -141,7 +157,7 @@ Por se tratar de uma aplicação web estática desenvolvida com HTML5 e CSS3, n�
 git clone https://github.com/SEU-USUARIO/projeto-starbucks.git
 ```
 
-> Substitui `SEU-USUARIO` pelo teu nome de utilizador do GitHub, caso o repositório tenha sido publicado.
+> Substitui `SEU-USUARIO` pelo teu nome de utilizador do GitHub e confirma o endereço do repositório.
 
 ### 2. Aceder ao diretório
 
@@ -189,16 +205,16 @@ _Nota: esta estrutura representa a organização indicada para o projeto. Confir
 
 ## 📚 Tecnologias e Conceitos Praticados
 
-- HTML5 — estruturação semântica de páginas web;
-- CSS3 — estilização e apresentação dos conteúdos;
-- CSS Grid — organização de layouts em linhas e colunas;
-- Flexbox — construção de layouts flexíveis;
-- Media Queries — adaptação da interface a diferentes ecrãs;
-- Responsive Design — desenvolvimento de interfaces responsivas;
-- Google Fonts — integração de fontes tipográficas externas;
-- CSS Backgrounds — configuração e posicionamento de imagens de fundo;
-- Hierarquia tipográfica — organização visual dos conteúdos;
-- Organização de recursos estáticos — estruturação de ficheiros CSS, fontes e imagens.
+- **HTML5** — estruturação semântica de páginas web;
+- **CSS3** — estilização e apresentação dos conteúdos;
+- **CSS Grid** — organização de layouts em linhas e colunas;
+- **Flexbox** — construção de layouts flexíveis;
+- **Media Queries** — adaptação da interface a diferentes ecrãs;
+- **Responsive Design** — desenvolvimento de interfaces responsivas;
+- **Google Fonts** — integração de fontes tipográficas externas;
+- **CSS Backgrounds** — configuração e posicionamento de imagens de fundo;
+- **Hierarquia tipográfica** — organização visual dos conteúdos;
+- **Organização de recursos estáticos** — estruturação de ficheiros CSS, fontes e imagens.
 
 ---
 
